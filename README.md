@@ -1,1 +1,1 @@
-# android_vendor_mediatek_s5501
+# android_vendor_tct_yaris_m_gsm
