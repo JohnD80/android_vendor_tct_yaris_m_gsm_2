@@ -1,1 +1,0 @@
-# android_vendor_tct_yaris_m_gsm
